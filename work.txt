@@ -1,4 +1,8 @@
 content 1
 2
 3
+<<<<<<< HEAD
 apple work 4
+=======
+master 4
+>>>>>>> 3d6a0547663e89a7365fbdf50096e975dfaf6f88
